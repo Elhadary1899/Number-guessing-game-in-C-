@@ -1,7 +1,7 @@
 # Number guessing game in C++
 
 
-#Overview
+# Overview
 This project is a number-guessing game that generates a random number between 1 and 100 and asks the user to guess this number, guiding him to know the right number.
 
 
