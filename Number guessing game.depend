@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706888373 source:e:\courses\technohacks internship\c++\tasks\task2 no. guessing game\number guessing game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
